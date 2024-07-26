@@ -37,7 +37,6 @@ In this project, you will be coding a mortgage calculator. At this point, you sh
 
 
 # How to use Git with Xcode
-
-
+![Git with Xcode Documentation](Git_with_Xcode.md)
 
 
